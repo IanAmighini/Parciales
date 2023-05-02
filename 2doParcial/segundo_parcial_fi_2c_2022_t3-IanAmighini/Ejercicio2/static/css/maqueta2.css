@@ -1,0 +1,24 @@
+body{
+    height: 1000px;
+    width: 100%;
+}
+
+.parte_alta{
+    height: 200px;
+    background-color: greenyellow;
+    display: flex;
+    align-items: center;
+}
+
+.parte_baja{
+    height: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blue;
+}
+
+h1{
+    font-size: 40px;
+    padding-left: 60px
+}
